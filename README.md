@@ -1,3 +1,4 @@
 # pencilcode
 ## Este es un subtitulo
-actividades en pencil
+** Texto actividades en pencil
+$git commit -m "agregué una línea"
